@@ -1,1 +1,3 @@
+SMART AQUARIUM 
+
 This project employs multiple sensors to determine whether the aquarium environment is appropriate for fish and transmits the data to the user’s device via Wi-Fi. A TDS sensor checks water purity, the water level sensor ensures sufficient water quantity, and the temperature sensor monitors environmental conditions to keep them suitable for fish.
